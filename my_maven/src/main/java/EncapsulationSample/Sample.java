@@ -8,7 +8,7 @@ public class Sample {
 		EncapulationSampleClass ob = new EncapulationSampleClass();
 		ob.setter("Name001", 133);
 		ob.getter();
-
+		System.out.println("Gitupdate");
 	}
 
 }
