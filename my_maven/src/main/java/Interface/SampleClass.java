@@ -31,7 +31,7 @@ public class SampleClass implements InterfaceSample {
 		ob1.add();
 		//ob1.print();
 		ob1.display();
-		System.out.println(ob1.a);
+		System.out.println(a);
 		
 		
 		
