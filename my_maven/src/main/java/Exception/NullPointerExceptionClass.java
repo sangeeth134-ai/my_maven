@@ -6,8 +6,13 @@ public class NullPointerExceptionClass {
 	
 	public void print()
 	{
+		try {
 		System.out.println(s.length());
-		
+		}
+		catch (Exception e)
+		{
+			System.out.println(e);
+		}
 	}
 	
 	public static void main(String[] args) {
