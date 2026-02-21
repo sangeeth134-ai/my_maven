@@ -70,6 +70,11 @@ public class CollectionSampleClass {
 		System.out.println(al2);
 		
 		
+		System.out.println("********For each *****");
+		for(String ss:al2)
+		{
+			System.out.println(ss);
+		}
 		
 
 	}
